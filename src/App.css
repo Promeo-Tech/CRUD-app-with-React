@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://images.pexels.com/photos/315938/pexels-photo-315938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size: cover;
+background-attachment: fixed;
+}
+
+tbody {
+  color: whitesmoke;
+  font-size: large;
+}
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 5px red;
+}
+
+th {
+  color: white;
+  font-size:x-large;
+
+}
+
+#button {
+  color: black;
+  font-size: large;
+  background-color: lightgray;
+
+}
